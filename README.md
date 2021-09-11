@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeShumilov
-- 👀 I’m interested in Information Security, Programming and foreign languages
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 
 
