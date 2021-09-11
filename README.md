@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeShumilov
 - 👀 I’m interested in Information Security, Programming and foreign languages
-- 🌱 I’m currently learning for Cyber Security Specialist
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - e-mail: shumilovru2@gmail.com, tg: @og_sergo
 
